@@ -1,41 +1,49 @@
-👋 Hi, I’m Siddhesh Deore
+### 👋 Hi, I’m **Siddhesh Deore**
 
-AI Engineer & Senior Python Developer
-Specializing in LLMs, RAG systems, multi-agent orchestration, and scalable backend APIs.
+**AI Engineer & Senior Python Developer**  
+Specializing in **LLMs**, **RAG systems**, **multi-agent orchestration**, and **scalable backend APIs**.
 
-🔧 Tech I Work With
+---
 
-Python, Flask, Django, FastAPI
+### 🔧 Tech I Work With
 
-LLMs / RAG / Agentic AI — LangChain, LangGraph, MCP
+**Languages & Frameworks**
+- Python · Flask · Django · FastAPI  
+- SQL · Azure OpenAI · LangChain · LangGraph · MCP
 
-Azure AI / Azure OpenAI, Databricks, Cognitive Search
+**ML / AI**
+- LLMs · RAG · Vector Databases  
+- Document Intelligence · Automation Pipelines
 
-Vector DBs, automation pipelines, multithreading
+**Cloud & DevOps**
+- Azure AI · Azure Databricks  
+- Docker · Azure DevOps · Logging & Monitoring
 
-APIs, cloud deployments, observability, MLOps
+---
 
-🚀 What I Build
+### 🚀 What I Build
+- High-throughput multi-agent systems  
+- Enterprise RAG + cognitive search pipelines  
+- Backend APIs for automation and data workflows  
+- Document-intelligence extraction systems  
+- Cloud-native AI applications
 
-High-throughput multi-agent systems
+---
 
-Enterprise RAG + search pipelines
+### 🌱 Currently Exploring
+- Agentic reasoning patterns  
+- Real-time inferencing optimization  
+- Advanced AI workflows and orchestration
 
-Backend APIs for real-world automation
+---
 
-Document-intelligence + extraction systems
+### 📊 GitHub Stats
 
-Scalable cloud-based AI applications
+![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd417&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd417&layout=compact&theme=tokyonight&hide_border=true)
 
-🌱 Currently Exploring
+---
 
-Real-time inference optimization
-
-Advanced agentic reasoning patterns
-
-Cloud-native AI architecture
-
-📫 Reach Me
-
-linkedin.com/in/siddhesh-ai
-siddheshdeore7@gmail.com
+### 📫 Reach Me
+- **LinkedIn:** https://linkedin.com/in/siddhesh-ai  
+- **Email:** siddheshdeore7@gmail.com
